@@ -2,7 +2,6 @@
 
 import { Call, Setting2 } from "iconsax-react";
 import Saly from "../../../public/Icons/Saly-13.svg";
-import emoj from "../../../public/Icons/emoj.png";
 
 import SuperToroid from "../../../public/Icons/SuperToroid-Purple-Glossy.svg";
 
