@@ -1,7 +1,14 @@
 /** @format */
 
+import Container from "./components/Layout/Container/Container";
+import MainLayout from "./components/Layout/MainLayout";
+
 function App() {
-  return <div className=" text-3xl text-red-400">App</div>;
+  return (
+    <MainLayout>
+      <Container />
+    </MainLayout>
+  );
 }
 
 export default App;
