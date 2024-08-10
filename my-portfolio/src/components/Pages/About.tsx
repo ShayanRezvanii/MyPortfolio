@@ -1,6 +1,5 @@
 /** @format */
 
-import React from "react";
 import Saly from "../../../public/Icons/Saly-13.svg";
 import SuperToroid from "../../../public/Icons/SuperToroid-Purple-Glossy.svg";
 function About() {
