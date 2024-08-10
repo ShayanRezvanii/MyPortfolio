@@ -22,7 +22,7 @@ function Skills() {
         <img src={Saly} className="w-[467px] h-[467px]" />
         <img
           src={SuperToroid}
-          className="w-[79px] top-0  left-20 absolute h-[57px]"
+          className="w-[79px] animate-moveHorizontal top-0  left-20 absolute h-[57px]"
         />
       </div>
     </div>
