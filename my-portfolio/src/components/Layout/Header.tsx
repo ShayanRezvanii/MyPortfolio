@@ -144,7 +144,7 @@ function Header({ selectedTab }: HeaderProps) {
                 Introduction
                 <div
                   className={`${
-                    activeTab === "Projects" ? "w-full" : "w-0"
+                    activeTab === "Introduction" ? "w-full" : "w-0"
                   } absolute bottom-0 left-0 h-[2px] bg-white transition-all duration-500 ease-out`}
                 />
               </div>
