@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Add, HambergerMenu, Moon } from "iconsax-react";
-import React, { useState } from "react";
+import { useState } from "react";
 interface HeaderProps {
   selectedTab: (value: string) => void;
 }
