@@ -23,9 +23,8 @@ export default function Introduction() {
             {"Welcome :)"}
           </p>
           <p className=" w-full max-w-[387px] text-sm lg:text-lg  text-white mt-6 tracking-widest">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil,
-            veritatis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Nihil, veritatis.
+            I'm excited about the endless possibilities in the world of
+            technology and always eager to learn and grow in this field.
           </p>
           <div className=" w-full flex  gap-3">
             <a href="tel:09105293253">
